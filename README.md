@@ -1,6 +1,8 @@
 # BIMS Customer Automation System
 
-> AI-powered customer enquiry, lead qualification and sales workflow automation built for BIMS Gadgets & Automobiles.
+> AI-powered customer enquiry, lead qualification and sales workflow automation built for BIMS Gadgets & Automobiles
+
+ ![BIMS Customer Automation System Architecture](072187E3-9784-4331-B402-34781764C890.png)
 
 ## Overview
 
